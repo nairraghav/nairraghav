@@ -1,7 +1,7 @@
-### Hi There 👋
-My name is Raghav Nair and I'm a Software Development Engineer in Test (SDET), currently working @ [The Pokémon Company International](http://www.pokemon.com/)
+### Hi There :wave:
+My name is Raghav Nair and I'm a Software Development Engineer in Test (SDET) currently working @ [The Pokémon Company International](http://www.pokemon.com/)
 
-#### Technologies & Tools
+### Technologies & Tools :computer:
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
@@ -27,6 +27,6 @@ My name is Raghav Nair and I'm a Software Development Engineer in Test (SDET), c
 ![](https://img.shields.io/badge/-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-JSON-informational?style=flat&logo=json&logoColor=white&color=2bbc8a)
 
-#### 📫 Where To Find Me
-- [LinkedIn](https://www.linkedin.com/in/raghav-nair-a36a6949/) :bust_in_silhouette:
-- [Website](http://www.raghav-nair.com) :computer:
+### Where To Find Me :bust_in_silhouette:
+- [LinkedIn](https://www.linkedin.com/in/raghav-nair-a36a6949/)
+- [Website](http://www.raghav-nair.com)
