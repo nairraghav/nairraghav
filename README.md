@@ -4,6 +4,8 @@ My name is Raghav Nair and I'm a Software Development Engineer in Test (SDET), c
 #### Technologies & Tools
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-BitBucket-informational?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)
