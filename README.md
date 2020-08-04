@@ -2,6 +2,9 @@
 My name is Raghav Nair and I'm a Software Development Engineer in Test (SDET), currently working @ [The Pokémon Company International](http://www.pokemon.com/)
 
 #### Technologies & Tools
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-BitBucket-informational?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)
 
@@ -21,11 +24,6 @@ My name is Raghav Nair and I'm a Software Development Engineer in Test (SDET), c
 ![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-JSON-informational?style=flat&logo=json&logoColor=white&color=2bbc8a)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nairraghav&theme=radical)
-
-![Raghav's Github Stats](https://github-readme-stats.vercel.app/api?username=nairraghav&show_icons=true&theme=radical)
 
 #### 📫 Where To Find Me
 - [LinkedIn](https://www.linkedin.com/in/raghav-nair-a36a6949/) :bust_in_silhouette:
