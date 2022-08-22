@@ -1,5 +1,5 @@
 ### Hi There :wave:
-My name is Raghav Nair and I'm a Software Development Engineer in Test (SDET) currently working @ [Amazon](https://www.amazon.com/)
+My name is Raghav Nair and I'm a Software Development Engineer in Test (SDET) currently working @ [The Pokémon Company International](https://www.pokemon.com/)
 
 ### Technologies & Tools :computer:
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
